@@ -1,0 +1,10 @@
+Source code for research by Toby Dylan Hocking
+
+| Title           | Published? |
+|-----------------+------------|
+| [[https://github.com/tdhock/animint-paper][Animint]]         | to submit  |
+| [[https://github.com/tdhock/breakpointError-orig][breakpointError]] | [[http://arxiv.org/abs/1509.00368][arXiv]]      |
+| [[https://github.com/tdhock/compare-paper][SVMcompare]]      | [[http://arxiv.org/abs/1401.8008][arXiv]]      |
+| [[https://github.com/tdhock/PeakSegJoint-paper][PeakSegJoint]]    | [[http://arxiv.org/abs/1506.01286][arXiv]]      |
+| [[https://github.com/tdhock/PeakSeg-paper][PeakSeg]]         | [[http://jmlr.org/proceedings/papers/v37/hocking15.html][ICML2015]]   |
+
