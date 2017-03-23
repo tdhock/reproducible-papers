@@ -1,10 +1,11 @@
 Source code for research papers and posters by Toby Dylan Hocking
 
-Last updated 25 Oct 2016
+Last updated 22 Mar 2017
 
 | Article/poster source code        | Published?          | software packages                     |
 |-----------------------------------+---------------------+---------------------------------------|
 | [[https://github.com/tdhock/animint-paper][Animint]]                           | to submit           | [[https://github.com/tdhock/animint][animint]]                               |
+| [[https://github.com/tdhock/PeakSegFPOP-paper][Constrained changepoint detection]] | [[https://arxiv.org/abs/1703.03352][arXiv 2017]]          | [[https://github.com/tdhock/coseg][coseg]]                                 |
 | [[https://bitbucket.org/mugqic/chip-seq-paper][Supervised ChIP-seq data analysis]] | [[http://bioinformatics.oxfordjournals.org/content/early/2016/10/23/bioinformatics.btw672.abstract][Bioinformatics 2016]] | [[https://github.com/tdhock/PeakError][PeakError]]                             |
 | [[https://r-forge.r-project.org/scm/viewvc.php/benchmark/?root%3Dopfp][FPOP results]]                      | [[http://link.springer.com/article/10.1007/s11222-016-9636-3?wt_mc%3Dinternal.event.1.SEM.ArticleAuthorOnlineFirst][Stats and Comp 2016]] | [[https://r-forge.r-project.org/R/?group_id%3D1851][fpop]]                                  |
 | [[https://github.com/tdhock/breakpointError-orig][breakpointError]]                   | [[http://arxiv.org/abs/1509.00368][arXiv 2015]]          | [[http://r-forge.r-project.org/scm/?group_id=1540][breakpointError]]                       |
